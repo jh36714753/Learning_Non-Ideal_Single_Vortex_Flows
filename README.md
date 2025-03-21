@@ -111,8 +111,6 @@ python train.py --config configs/multi_vortices_Re=1000_1_2.txt
 ## Trying your own video
 We assume the input is a Numpy array of shape `[num_frames], 256, 256, 3`, with the last dimension representing RGB pixel values between 0.0 and 1.0, located in `data/[your_name_here]/imgs.npy`. For fluid videos with boundaries (like in our real-world examples), it is required that a Numpy array of shape `256, 256` representing the signed distance field to the boundary be supplied in `data/[your_name_here]/sdf.npy`. We assume the signed distance has a unit of pixels.
 
-For videos of higher dynamical complexity, we also encourage playing around with the number of vortex particles used. Currently, this is determined by the `vorts_num_x` and `vorts_num_y` parameters in `train.py` hard coded to 4, which might need to be increased as needed.
-
 ## Reference
 
 https://github.com/yitongdeng-projects/learning_vortex_dynamics_code
