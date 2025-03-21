@@ -1,0 +1,11 @@
+--data_name lamb_oseen_vortex_Re=1000
+--seen_ratio 0.6666
+--exp_name exp_lamb_oseen_vortex_Re=1000
+--num_train = 40000
+--vort_scale = 0.2
+--init_vort_dist = 1.0
+--vort_w = 0.0
+--nu = 0.01
+--omega = 0
+--VP_num_x = 1
+--VP_num_y = 1

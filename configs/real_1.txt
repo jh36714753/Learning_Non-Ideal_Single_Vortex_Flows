@@ -1,0 +1,11 @@
+--data_name real_1 
+--seen_ratio 0.6666 
+--exp_name exp_real_1
+--num_train = 4000
+--vort_scale = 0.5
+--init_vort_dist = 0.7
+--vort_w = 0.0
+--nu = 0
+--omega = 0
+--VP_num_x = 4
+--VP_num_y = 4

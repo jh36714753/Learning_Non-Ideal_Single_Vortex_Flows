@@ -1,0 +1,10 @@
+--data_name synthetic_1 
+--seen_ratio 0.3333 
+--exp_name exp_synthetic_1
+--num_train = 40000
+--vort_scale = 0.33
+--init_vort_dist = 1.0
+--nu = 0
+--omega = 0
+--VP_num_x = 4
+--VP_num_y = 4

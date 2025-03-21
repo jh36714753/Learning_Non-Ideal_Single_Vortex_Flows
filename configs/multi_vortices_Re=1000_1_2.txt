@@ -1,0 +1,11 @@
+--data_name multi_vortices_Re=1000_1_2
+--seen_ratio 0.6666
+--exp_name exp_multi_vortices_Re=1000_1_2
+--num_train = 40000
+--vort_scale = 1.0
+--init_vort_dist = 1.0
+--vort_w = 0.0
+--nu = 0.001
+--omega = 0
+--VP_num_x = 3
+--VP_num_y = 1
