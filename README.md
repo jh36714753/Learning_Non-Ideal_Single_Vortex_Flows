@@ -116,7 +116,3 @@ For videos of higher dynamical complexity, we also encourage playing around with
 ## Reference
 
 https://github.com/yitongdeng-projects/learning_vortex_dynamics_code
-# Learning_Non-Ideal_Single_Vortex_Flows
-# Learning_Non-Ideal_Single_Vortex_Flows
-"# Learning_Non-Ideal_Single_Vortex_Flows" 
-"# Learning_Non-Ideal_Single_Vortex_Flows" 
