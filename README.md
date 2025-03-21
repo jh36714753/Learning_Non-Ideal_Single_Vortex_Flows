@@ -88,7 +88,7 @@ python train.py --config configs/lamb_oseen_vortex_Re=1000_omega=1 .txt
 
 #### Results
 
-![Lamb-Oseen vortex Re=1000 Omega=1](gifs/lamb_oseen_vortex_Re=1000_omega=1 .gif)
+![Lamb-Oseen vortex Re=1000 Omega=1](gifs/lamb_oseen_vortex_Re=1000_omega=1.gif)
 
 ## Multi-vortices Re=1000
 
